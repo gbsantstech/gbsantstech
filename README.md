@@ -1,6 +1,8 @@
 ## Olá! Eu sou o Gabriel Santos 🖐️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielsants/)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white")](mailto:contatogbsants@outlook.com)
+
 
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gbsantstech&show_icons=true&theme=transparent&count_private=true)
