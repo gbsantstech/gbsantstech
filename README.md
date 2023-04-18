@@ -1,4 +1,4 @@
 ## 💻 Gabriel Santos 
 
-- 🎯 Projetos 
+- 🎯 Projetos Pessoais
 - 📚 Trabalhos acadêmicos
